@@ -164,4 +164,11 @@ PWGen.prototype.ELEMENTS = [
     [ "x",  PWGen.prototype.CONSONANT ],
     [ "y",  PWGen.prototype.CONSONANT ],
     [ "z",  PWGen.prototype.CONSONANT ],
+    [ "#",  PWGen.prototype.CONSONANT ],
+    [ "€",  PWGen.prototype.CONSONANT ],
+    [ "?",  PWGen.prototype.CONSONANT ],
+    [ "_",  PWGen.prototype.CONSONANT ],
+    [ ":",  PWGen.prototype.CONSONANT ],
+    [ "$",  PWGen.prototype.CONSONANT ],
+    
 ];
